@@ -14,6 +14,20 @@
 		DF1432191ADD915F00546BA8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF1432181ADD915F00546BA8 /* Images.xcassets */; };
 		DF14321C1ADD915F00546BA8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF14321A1ADD915F00546BA8 /* LaunchScreen.xib */; };
 		DF1432281ADD915F00546BA8 /* pitchperfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1432271ADD915F00546BA8 /* pitchperfectTests.swift */; };
+		DF1432341ADE409B00546BA8 /* mic@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF1432321ADE409B00546BA8 /* mic@2x.png */; };
+		DF1432351ADE409B00546BA8 /* mic@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF1432331ADE409B00546BA8 /* mic@3x.png */; };
+		DF1432371ADE420000546BA8 /* stop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF1432361ADE420000546BA8 /* stop@2x.png */; };
+		DF14323B1ADEA30500546BA8 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF14323A1ADEA30500546BA8 /* PlaySoundsViewController.swift */; };
+		DF14323D1ADEA39D00546BA8 /* slow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF14323C1ADEA39D00546BA8 /* slow@2x.png */; };
+		DF1432411ADEBB7B00546BA8 /* fast@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF1432401ADEBB7B00546BA8 /* fast@2x.png */; };
+		DF1432431ADFBE1900546BA8 /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1432421ADFBE1900546BA8 /* RecordedAudio.swift */; };
+		DF1432451ADFF6BC00546BA8 /* chipmunk@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF1432441ADFF6BC00546BA8 /* chipmunk@2x.png */; };
+		DF1432471AE0095900546BA8 /* darthvader@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF1432461AE0095900546BA8 /* darthvader@2x.png */; };
+		DFDD52041AE154140029D928 /* re-record@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DFDD52031AE154140029D928 /* re-record@2x.png */; };
+		DFDD52061AE1569B0029D928 /* pause@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DFDD52051AE1569B0029D928 /* pause@2x.png */; };
+		DFDD52081AE158850029D928 /* play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DFDD52071AE158850029D928 /* play@2x.png */; };
+		DFDD520D1AE167F60029D928 /* reverb@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DFDD520B1AE167F60029D928 /* reverb@2x.png */; };
+		DFDD520E1AE167F60029D928 /* echo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DFDD520C1AE167F60029D928 /* echo@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +52,20 @@
 		DF1432211ADD915F00546BA8 /* pitchperfectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pitchperfectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF1432261ADD915F00546BA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DF1432271ADD915F00546BA8 /* pitchperfectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pitchperfectTests.swift; sourceTree = "<group>"; };
+		DF1432321ADE409B00546BA8 /* mic@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mic@2x.png"; sourceTree = "<group>"; };
+		DF1432331ADE409B00546BA8 /* mic@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mic@3x.png"; sourceTree = "<group>"; };
+		DF1432361ADE420000546BA8 /* stop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stop@2x.png"; sourceTree = "<group>"; };
+		DF14323A1ADEA30500546BA8 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
+		DF14323C1ADEA39D00546BA8 /* slow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slow@2x.png"; sourceTree = "<group>"; };
+		DF1432401ADEBB7B00546BA8 /* fast@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fast@2x.png"; sourceTree = "<group>"; };
+		DF1432421ADFBE1900546BA8 /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
+		DF1432441ADFF6BC00546BA8 /* chipmunk@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chipmunk@2x.png"; sourceTree = "<group>"; };
+		DF1432461AE0095900546BA8 /* darthvader@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darthvader@2x.png"; sourceTree = "<group>"; };
+		DFDD52031AE154140029D928 /* re-record@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "re-record@2x.png"; sourceTree = "<group>"; };
+		DFDD52051AE1569B0029D928 /* pause@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pause@2x.png"; sourceTree = "<group>"; };
+		DFDD52071AE158850029D928 /* play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@2x.png"; sourceTree = "<group>"; };
+		DFDD520B1AE167F60029D928 /* reverb@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reverb@2x.png"; sourceTree = "<group>"; };
+		DFDD520C1AE167F60029D928 /* echo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "echo@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,9 +107,12 @@
 		DF14320B1ADD915F00546BA8 /* pitchperfect */ = {
 			isa = PBXGroup;
 			children = (
+				DF1432311ADE408800546BA8 /* assets */,
 				DF14320E1ADD915F00546BA8 /* AppDelegate.swift */,
 				DF1432131ADD915F00546BA8 /* ViewController.swift */,
+				DF1432421ADFBE1900546BA8 /* RecordedAudio.swift */,
 				DF1432151ADD915F00546BA8 /* Main.storyboard */,
+				DF14323A1ADEA30500546BA8 /* PlaySoundsViewController.swift */,
 				DF1432181ADD915F00546BA8 /* Images.xcassets */,
 				DF14321A1ADD915F00546BA8 /* LaunchScreen.xib */,
 				DF1432101ADD915F00546BA8 /* pitchperfect.xcdatamodeld */,
@@ -113,6 +144,25 @@
 				DF1432261ADD915F00546BA8 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DF1432311ADE408800546BA8 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				DFDD520B1AE167F60029D928 /* reverb@2x.png */,
+				DFDD520C1AE167F60029D928 /* echo@2x.png */,
+				DFDD52071AE158850029D928 /* play@2x.png */,
+				DFDD52051AE1569B0029D928 /* pause@2x.png */,
+				DFDD52031AE154140029D928 /* re-record@2x.png */,
+				DF1432461AE0095900546BA8 /* darthvader@2x.png */,
+				DF1432441ADFF6BC00546BA8 /* chipmunk@2x.png */,
+				DF1432401ADEBB7B00546BA8 /* fast@2x.png */,
+				DF14323C1ADEA39D00546BA8 /* slow@2x.png */,
+				DF1432361ADE420000546BA8 /* stop@2x.png */,
+				DF1432321ADE409B00546BA8 /* mic@2x.png */,
+				DF1432331ADE409B00546BA8 /* mic@3x.png */,
+			);
+			name = assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,9 +245,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFDD520D1AE167F60029D928 /* reverb@2x.png in Resources */,
+				DFDD52081AE158850029D928 /* play@2x.png in Resources */,
+				DFDD52041AE154140029D928 /* re-record@2x.png in Resources */,
+				DF1432341ADE409B00546BA8 /* mic@2x.png in Resources */,
+				DF1432351ADE409B00546BA8 /* mic@3x.png in Resources */,
+				DF1432371ADE420000546BA8 /* stop@2x.png in Resources */,
+				DFDD520E1AE167F60029D928 /* echo@2x.png in Resources */,
+				DF1432411ADEBB7B00546BA8 /* fast@2x.png in Resources */,
+				DF14323D1ADEA39D00546BA8 /* slow@2x.png in Resources */,
+				DFDD52061AE1569B0029D928 /* pause@2x.png in Resources */,
 				DF1432171ADD915F00546BA8 /* Main.storyboard in Resources */,
+				DF1432451ADFF6BC00546BA8 /* chipmunk@2x.png in Resources */,
 				DF14321C1ADD915F00546BA8 /* LaunchScreen.xib in Resources */,
 				DF1432191ADD915F00546BA8 /* Images.xcassets in Resources */,
+				DF1432471AE0095900546BA8 /* darthvader@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,7 +279,9 @@
 			files = (
 				DF1432141ADD915F00546BA8 /* ViewController.swift in Sources */,
 				DF1432121ADD915F00546BA8 /* pitchperfect.xcdatamodeld in Sources */,
+				DF14323B1ADEA30500546BA8 /* PlaySoundsViewController.swift in Sources */,
 				DF14320F1ADD915F00546BA8 /* AppDelegate.swift in Sources */,
+				DF1432431ADFBE1900546BA8 /* RecordedAudio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +479,7 @@
 				DF14322D1ADD915F00546BA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DF14322E1ADD915F00546BA8 /* Build configuration list for PBXNativeTarget "pitchperfectTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +488,7 @@
 				DF1432301ADD915F00546BA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
